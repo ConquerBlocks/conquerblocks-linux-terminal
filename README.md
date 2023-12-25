@@ -2,9 +2,7 @@
 
 <h2>Repositorio creado para el módulo de Línux y la Terminal para Máster de Desarrollo FullStack</h2>
 
-<img width="450px" src="00_indice_modulo/portada.jpg" alt="Portada del módulo de Línux y la Terminal" />
-
-<img src="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/00_indice_portada/Portada.png?raw=true" alt="Línux y la Terminal">
+<img width="450px" src="00_indice_portada/Portada.jpg" alt="Portada del módulo de Línux y la Terminal" />
 
 <h4>Material de las clases</h4>
 <ul>
