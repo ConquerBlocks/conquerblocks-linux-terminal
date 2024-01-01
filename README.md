@@ -13,4 +13,6 @@
     <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2005%20-%20Instalaci%C3%B3n%20guest%20additions%20en%20Virtual%20Box.pdf">LyT Clase 05 - Instalación guest additions en Virtual Box</a></li>
     <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2006%20-%20WSL%20Windows%20Subsystem%20for%20Linux.pdf">LyT Clase 06 - WSL Windows Subsystem for Linux</a></li>
     <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2007%20-%20Archivos%20%C3%BAtiles%20y%20primeros%20comandos.pdf">LyT Clase 07 - Archivos útiles y primeros comandos</a></li>
+    <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2008%20-%20%20Ficheros%20y%20ficheros%20de%20configuraci%C3%B3n.pdf">LyT Clase 08 -  Ficheros y ficheros de configuración</a></li>
+    <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2009%20-%20Directorios%20especiales%2C%20rutas%20y%20comodines.pdf">LyT Clase 09 - Directorios especiales, rutas y comodines.pdf</a></li>
 </ul>
