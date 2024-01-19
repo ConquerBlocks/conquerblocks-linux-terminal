@@ -24,7 +24,7 @@
 - Situarnos en el directorio /home/usuario
 - Crear el directorio ejercicio3
 - Situarnos en ejercicio3 mediante direccionamiento relativo
-- El fichero texto.txt debe contener el texto "Este es el ejercicio 4"
+- El fichero texto.txt debe contener el texto "Este es el ejercicio 3"
 - Crear un enlace simbólico en este mismo directorio llamado enlace.lnk que apunte a texto.txt
 - Mostrar el listado del directorio ejercicio3 en formato largo
 - Mostrar los tipos de ficheros contenidos en el directorio ejercicio3
@@ -42,8 +42,8 @@
 
 ### Ejercicio 5. Manejo de comodines
 - Situarnos en el directorio /home/usuario
-- Crear el directorio ejercicio7
-- Situarnos en el directorio ejercicio7 mediante direccionamiento relativo
+- Crear el directorio ejercicio5
+- Situarnos en el directorio ejercicio5 mediante direccionamiento relativo
 - Crear un fichero vacío llamado texto1.txt
 - Copiar texto1.txt como texto2.txt
 - Copiar texto1.txt como texto3.txt
@@ -55,4 +55,4 @@
 - Copiar todos los ficheros que empiezan por "texto" y acaban por ".txt" en el directorio ficheros2
 - Crear un directorio llamado ficheros3
 - Copiar todos los ficheros que empiezan por "texto" seguido de un numero de 1 a 3 en el directorio ficheros3
-- Mostrar el listado del directorio ejercicio7 y de todos sus subdirectorios en formato largo
+- Mostrar el listado del directorio ejercicio5 y de todos sus subdirectorios en formato largo
