@@ -10,7 +10,7 @@
 - Situarnos en el directorio ejercicio1 mediante direccionamiento relativo
 - Crear un fichero de texto con el editor nano con el siguiente contenido:
 
-Nombre;MME;SOM;REDES;APLOF;FOL \
+> Nombre;MME;SOM;REDES;APLOF;FOL \
 Miguel;6;5;7;8;9 \
 Antonio;3;4;2;6;7 \
 Luis;8;8;7;9;9 \
