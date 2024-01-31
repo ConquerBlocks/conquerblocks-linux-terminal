@@ -22,5 +22,5 @@
     <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2013%20-%20Relaci%C3%B3n%20de%20ejercicios%20I.md">LyT Clase 13 - Relación de ejercicios I - Ejercicios</a></li>
     <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2014%20-%20Comandos%20%C3%BAtiles%20III.pdf">LyT Clase 14 - Comandos útiles III</a></li>
     <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2015%20-%20Relaci%C3%B3n%20de%20ejercicios%20II.pdf">LyT Clase 15 - Relación de ejercicios II - Diapositivas</a></li>
-    <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2015%20-%20Relaci%C3%B3n%20de%20ejercicios%20II.md">LyT Clase 13 - Relación de ejercicios II - Ejercicios</a></li>
+    <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2015%20-%20Relaci%C3%B3n%20de%20ejercicios%20II.md">LyT Clase 15 - Relación de ejercicios II - Ejercicios</a></li>
 </ul>
