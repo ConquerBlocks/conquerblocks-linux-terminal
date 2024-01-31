@@ -9,11 +9,12 @@
 - Crear el directorio ejercicio1
 - Situarnos en el directorio ejercicio1 mediante direccionamiento relativo
 - Crear un fichero de texto con el editor nano con el siguiente contenido:
-Nombre;MME;SOM;REDES;APLOF;FOL
-Miguel;6;5;7;8;9
-Antonio;3;4;2;6;7
-Luis;8;8;7;9;9
-Sara;2;3;5;6;1
+
+Nombre;MME;SOM;REDES;APLOF;FOL \
+Miguel;6;5;7;8;9 \
+Antonio;3;4;2;6;7 \
+Luis;8;8;7;9;9 \
+Sara;2;3;5;6;1 \
 Maria;6;7;5;8;8
 
 - 1.1 Ordenar las lineas del fichero por orden alfabético y redireccionalas a un fichero llamado
