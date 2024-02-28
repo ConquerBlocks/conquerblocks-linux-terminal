@@ -23,4 +23,10 @@
     <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2014%20-%20Comandos%20%C3%BAtiles%20III.pdf">LyT Clase 14 - Comandos útiles III</a></li>
     <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2015%20-%20Relaci%C3%B3n%20de%20ejercicios%20II.pdf">LyT Clase 15 - Relación de ejercicios II - Diapositivas</a></li>
     <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2015%20-%20Relaci%C3%B3n%20de%20ejercicios%20II.md">LyT Clase 15 - Relación de ejercicios II - Ejercicios</a></li>
+    <li><a target="_blank" href="./01_clases/LyT Clase 16 - Gestión de usuarios y grupos.pdf">LyT Clase 16 - Gestión de usuarios y grupos - Diapositivas</a></li>
+    <li><a target="_blank" href="./01_clases/LyT Clase 17 - Ejercicios sobre gestion de usuarios y grupos.pdf">LyT Clase 17 - Ejercicios sobre gestion de usuarios y grupos</a></li>
+    <li><a target="_blank" href="./01_clases/LyT Clase 18 - Gestion de permisos.pdf">LyT Clase 18 - Gestion de permisos</a></li>
+    <li><a target="_blank" href="./01_clases/LyT Clase 19 - Ejercicios de gestion de permisos.pdf">LyT Clase 19 - Ejercicios de gestion de permisos</a></li>
+    <li><a target="_blank" href="./01_clases/LyT Clase 20 - Shell Script y Cron.pdf">LyT Clase 20 - Shell Script y Cron</a></li>
+    <li><a target="_blank" href="./01_clases/LyT Clase 21 - Servidor SSH y conexion remota.pdf">LyT Clase 21 - Servidor SSH y conexion remota</a></li>
 </ul>
