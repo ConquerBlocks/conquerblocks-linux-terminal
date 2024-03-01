@@ -29,4 +29,5 @@
     <li><a target="_blank" href="./01_clases/LyT Clase 19 - Ejercicios de gestion de permisos.pdf">LyT Clase 19 - Ejercicios de gestion de permisos</a></li>
     <li><a target="_blank" href="./01_clases/LyT Clase 20 - Shell Script y Cron.pdf">LyT Clase 20 - Shell Script y Cron</a></li>
     <li><a target="_blank" href="./01_clases/LyT Clase 21 - Servidor SSH y conexion remota.pdf">LyT Clase 21 - Servidor SSH y conexion remota</a></li>
+    <li><a target="_blank" href="./01_clases/LyT Clase 22 - Clave publica y clave privada.pdf">LyT Clase 22 - Clave publica y clave privada</a></li>
 </ul>
