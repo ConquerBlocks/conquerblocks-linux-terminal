@@ -23,11 +23,16 @@
     <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2014%20-%20Comandos%20%C3%BAtiles%20III.pdf">LyT Clase 14 - Comandos útiles III</a></li>
     <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2015%20-%20Relaci%C3%B3n%20de%20ejercicios%20II.pdf">LyT Clase 15 - Relación de ejercicios II - Diapositivas</a></li>
     <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2015%20-%20Relaci%C3%B3n%20de%20ejercicios%20II.md">LyT Clase 15 - Relación de ejercicios II - Ejercicios</a></li>
-    <li><a target="_blank" href="./01_clases/LyT Clase 16 - Gestión de usuarios y grupos.pdf">LyT Clase 16 - Gestión de usuarios y grupos - Diapositivas</a></li>
-    <li><a target="_blank" href="./01_clases/LyT Clase 17 - Ejercicios sobre gestion de usuarios y grupos.pdf">LyT Clase 17 - Ejercicios sobre gestion de usuarios y grupos</a></li>
-    <li><a target="_blank" href="./01_clases/LyT Clase 18 - Gestion de permisos.pdf">LyT Clase 18 - Gestion de permisos</a></li>
-    <li><a target="_blank" href="./01_clases/LyT Clase 19 - Ejercicios de gestion de permisos.pdf">LyT Clase 19 - Ejercicios de gestion de permisos</a></li>
-    <li><a target="_blank" href="./01_clases/LyT Clase 20 - Shell Script y Cron.pdf">LyT Clase 20 - Shell Script y Cron</a></li>
-    <li><a target="_blank" href="./01_clases/LyT Clase 21 - Servidor SSH y conexion remota.pdf">LyT Clase 21 - Servidor SSH y conexion remota</a></li>
-    <li><a target="_blank" href="./01_clases/LyT Clase 22 - Clave publica y clave privada.pdf">LyT Clase 22 - Clave publica y clave privada</a></li>
+    <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LYT%20Clase%2016%20-%20Gesti%C3%B3n%20de%20usuarios%20y%20grupos.pdf">LyT Clase 16 - Gestión de usuarios y grupos - Diapositivas</a></li>
+    <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LYT%20Clase%2017%20-%20Ejercicios%20sobre%20gestion%20de%20usuarios%20y%20grupos.pdf">LyT Clase 17 - Ejercicios sobre gestión de usuarios y grupos</a></li>
+    <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LYT%20Clase%2018%20-%20Gestion%20de%20permisos.pdf">LyT Clase 18 - Gestión de permisos</a></li>
+    <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2019%20-%20Ejercicios%20de%20gestion%20de%20permisos.pdf">LyT Clase 19 - Ejercicios de gestión de permisos</a></li>
+    <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2020%20-%20Shell%20Script%20y%20Cron.pdf">LyT Clase 20 - Shell Script y Cron</a></li>
+    <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2021%20-%20Servidor%20SSH%20y%20conexion%20remota.pdf">LyT Clase 21 - Servidor SSH y conexión remota</a></li>
+    <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2022%20-%20Clave%20publica%20y%20clave%20privada.pdf">LyT Clase 22 - Clave publica y clave privada</a></li>
+    <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2022%20-%20Clave%20publica%20y%20clave%20privada.pdf">LyT Clase 22 - Clave publica y clave privada</a></li>
+    <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2023%20-%20Ssh-copy-id%20Rsycn%20y%20ejercicios.pdf">LyT Clase 23 - Ssh-copy-id Rsycn y ejercicios
+</a></li>
+    <li><a target="_blank" href="https://github.com/ConquerBlocks/conquerblocks-linux-terminal/blob/master/01_clases/LyT%20Clase%2024%20-%20Prepara%20tu%20terminal%20en%20Windows.pdf">LyT Clase 24 - Prepara tu terminal en Windows
+</a></li>
 </ul>
